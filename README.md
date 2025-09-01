@@ -10,9 +10,13 @@ Name:PRIYADHARSHINI R K
 ## Algorithm:
 
  1.use figma or canva
+ 
  2.Apply Gestalt principles to enhance mobile and web layout design.
+ 
  3.Incorporate UI elements and design patterns into the layouts.
+ 
  4.Develop interaction behaviors and usability principles for the designs.
+ 
  5.Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 
 
